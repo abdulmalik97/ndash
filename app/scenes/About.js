@@ -53,7 +53,7 @@ export default class AboutScene extends Component {
             style={styles.aboutParagraphLink}
             url="https://www.npms.io/"
             >npms.io</LinkText>,
-          without them this project wouldn't exist. Thanks a lot folks.
+          without them this project wouldnt exist. Thanks a lot folks.
         </Text>
 
         <Text style={styles.aboutHeader}>
